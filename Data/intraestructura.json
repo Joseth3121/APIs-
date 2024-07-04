@@ -1,0 +1,24 @@
+{
+    "servers": [
+        {
+            "server1": {
+                "name": "srv1",
+                "os": "manjaro",
+                "services": [
+                    "ftp",
+                    "ssh"
+                ]
+            }
+        },
+        {
+            "server2": {
+                "name": "srv2",
+                "os": "manjaro",
+                "services": [
+                    "http",
+                    "sftp"
+                ]
+            }
+        }
+    ]
+}

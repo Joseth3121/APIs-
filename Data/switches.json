@@ -1,0 +1,13 @@
+{
+    "routers": {
+        "name": "CSR100V",
+        "type": "hardware",
+        "vendor": "cisco"
+    },
+    "switches": [
+        {
+            "model1": "CAT3750",
+            "model2": "CAT3760"
+        }
+    ]
+}
